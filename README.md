@@ -13,5 +13,5 @@ git clone https://github.com/AI-multimodal/public-demos
 cd public-demos
 pip install -r requirements.txt
 pip install jupyterlab
-juptyer lab
+jupyter lab
 ```
