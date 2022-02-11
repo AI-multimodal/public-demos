@@ -20,15 +20,17 @@ Our goal is to enable and accelerate scientific discovery by leveraging large, c
 
 We integrated with [Tiled](https://blueskyproject.io/tiled/) for these demos. First, we can define Tiled as a data access service for data science tools and we use it to put together all the different data sets that we receive from beamline scientists and it helps users to avoid worrying about formatting, file structure and parsing.
 
-Currently, we have integrated data sets provided by beamline scientist from Argonne National Laboratory (ANL), Brookhaven National Laboratory (BNL) and Lawrence Berkeley National Laboratory (LBL). Some of these scientists are: Dr. Maria Chen (ANL), Dr. Wanli Yang (LBL), Dr. Chengjun Sun (ANL), Dr. Eli Stavitski (BNL), Dr. Steve Heald (ANL). We also received a letter of support from Dr. Matt Newville from University of Chicago
+<!-- Currently, we have integrated data sets provided by beamline scientist from Argonne National Laboratory (ANL), Brookhaven National Laboratory (BNL) and Lawrence Berkeley National Laboratory (LBL). Some of these scientists are: Dr. Maria Chen (ANL), Dr. Wanli Yang (LBL), Dr. Chengjun Sun (ANL), Dr. Eli Stavitski (BNL), Dr. Steve Heald (ANL). We also received a letter of support from Dr. Matt Newville from University of Chicago -->
 
-This repository contains both public and private data sets. You can run these sets by following the intructions below. Keep in mind that you will need authorization to access the private data sets. We will give authorization to a selective group of scientists via ORCID authetification.
+This repository contains both public and private data sets. Currently, we have enabled the XAS data library of Dr. Matt Newville ([source](https://github.com/XraySpectroscopy/XASDataLibrary)) for public access in our server. 
 
-You can run the examples in your browser on Binder:
+You can run all the data sets by following the intructions below. Keep in mind that you will need authorization to access the private data sets. We will give authorization to a selective group of scientists via ORCID authetification.
+
+- You can run the examples in your browser on Binder:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AI-multimodal/public-demos/HEAD?labpath=data-access.ipynb)
 
-Or you can run the locally:
+- Or you can run the locally:
 
 ```
 git clone https://github.com/AI-multimodal/public-demos
