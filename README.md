@@ -1,7 +1,7 @@
 # AI Multimodal Public Demos
 
 This repository is part of [AIMM project](https://github.com/AI-multimodal): a joint and collaborative effort between scientists from the following Labs:
-- [Argonne National Laboratory](https://www.anl.gov/): Advanced Photon Source (APS) and Center for Nanoscale Materials (CNM)
+- [Argonne National Laboratory (ANL)](https://www.anl.gov/): Advanced Photon Source (APS) and Center for Nanoscale Materials (CNM)
 - [Brookhaven National Laboratory (BNL)](https://www.bnl.gov/): Center for Functional Nanomaterials (CFN) and National Synchrotron Light Source II (NSLS-II)
 - [Lawrence Berkeley National Laboratory (LBL)](https://www.lbl.gov/): Advanced Light Source (ALS)
 
