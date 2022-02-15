@@ -8,9 +8,10 @@ This repository is part of [AIMM project](https://github.com/AI-multimodal): a j
 The current contributors and authors working in this project are:
 - ANL:
   - Scientists: Maria Chan, Steve Heald, Nicholas Schwarz, Chengjun Sun
+  - Post-Docs: Inhui Hwang, Yiming Chen
 - BNL:
-  - Scientists: Eli Stavitski, Daniel , Stuart Campbell, Deyu Lu, Xiaohui Qu, Shinjae Yoo
-  - Post-Docs: Juan Marulanda
+  - Scientists: Eli Stavitski, Daniel , Stuart Campbell, Deyu Lu, Xiaohui Qu, Shinjae Yoo, Matthew Carbone
+  - Post-Docs: Juan Marulanda, Zhu Liang, Fanchen Meng
 - LBL:
   - Scientists: Dylan McReynolds, Ronald J. Pandolfi, Wanli Yang
   - Post-Docs: Joseph Kleinhenz
