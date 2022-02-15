@@ -13,7 +13,7 @@ The current contributors and authors working in this project are:
   - Scientists: Eli Stavitski, Daniel , Stuart Campbell, Deyu Lu, Xiaohui Qu, Shinjae Yoo, Matthew Carbone
   - Post-Docs: Juan Marulanda, Zhu Liang, Fanchen Meng
 - LBL:
-  - Scientists: Dylan McReynolds, Ronald J. Pandolfi, Wanli Yang
+  - Scientists: Dylan McReynolds, Ronald Pandolfi, Wanli Yang
   - Post-Docs: Joseph Kleinhenz
 
 <!-- Our goal is to create database for XAS data that can be used by scientist from beamlines at different Synchrtron Light Sources around the world. They will be able to use this database as a platform to share and use data to improve their research. -->
