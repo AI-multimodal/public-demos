@@ -10,7 +10,7 @@ The current contributors and authors working in this project are:
   - Scientists: Maria Chan, Steve Heald, Nicholas Schwarz, Chengjun Sun
   - Post-Docs: Inhui Hwang, Yiming Chen
 - BNL:
-  - Scientists: Eli Stavitski, Daniel , Stuart Campbell, Deyu Lu, Xiaohui Qu, Shinjae Yoo, Matthew Carbone
+  - Scientists: Eli Stavitski, Daniel Allan, Stuart Campbell, Deyu Lu, Xiaohui Qu, Shinjae Yoo, Matthew Carbone
   - Post-Docs: Juan Marulanda, Zhu Liang, Fanchen Meng
 - LBL:
   - Scientists: Dylan McReynolds, Ronald Pandolfi, Wanli Yang
