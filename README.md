@@ -7,14 +7,11 @@ This repository is part of [AIMM project](https://github.com/AI-multimodal): a j
 
 The current contributors and authors working in this project are:
 - ANL:
-  - Scientists: Maria Chan, Steve Heald, Nicholas Schwarz, Chengjun Sun
-  - Post-Docs: Inhui Hwang, Yiming Chen
+  - Maria Chan, Steve Heald, Nicholas Schwarz, Chengjun Sun, Inhui Hwang, Yiming Chen
 - BNL:
-  - Scientists: Eli Stavitski, Daniel Allan, Stuart Campbell, Deyu Lu, Xiaohui Qu, Shinjae Yoo, Matthew Carbone
-  - Post-Docs: Juan Marulanda, Zhu Liang, Fanchen Meng
+  - Eli Stavitski, Daniel Allan, Stuart Campbell, Deyu Lu, Xiaohui Qu, Shinjae Yoo, Matthew Carbone, Juan Marulanda, Zhu Liang, Fanchen Meng
 - LBL:
-  - Scientists: Dylan McReynolds, Ronald Pandolfi, Wanli Yang
-  - Post-Docs: Joseph Kleinhenz
+  - Dylan McReynolds, Wanli Yang, Joseph Kleinhenz
 
 <!-- Our goal is to create database for XAS data that can be used by scientist from beamlines at different Synchrtron Light Sources around the world. They will be able to use this database as a platform to share and use data to improve their research. -->
 Our goal is to enable and accelerate scientific discovery by leveraging large, complex multimodal datasets generated across BES synchrotron facilities. We are developing shared, transferrable infrastructure to store, curate, analyze, interpret and disseminate the data.
