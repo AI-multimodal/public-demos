@@ -16,7 +16,7 @@ The current contributors and authors working in this project are:
 <!-- Our goal is to create database for XAS data that can be used by scientist from beamlines at different Synchrtron Light Sources around the world. They will be able to use this database as a platform to share and use data to improve their research. -->
 Our goal is to enable and accelerate scientific discovery by leveraging large, complex multimodal datasets generated across BES synchrotron facilities. We are developing shared, transferrable infrastructure to store, curate, analyze, interpret and disseminate the data.
 
-We integrated with [Tiled](https://blueskyproject.io/tiled/) for these demos. First, we can define Tiled as a data access service for data science tools and we use it to put together all the different data sets that we receive from beamline scientists and it helps users to avoid worrying about formatting, file structure and parsing.
+We integrated with [Tiled](https://blueskyproject.io/tiled/) for these demos. Tiled is a data access service for data science tools and we use it to put together all the different data sets that we receive from beamline scientists and it helps users to avoid worrying about formatting, file structure and parsing.
 
 <!-- Currently, we have integrated data sets provided by beamline scientist from Argonne National Laboratory (ANL), Brookhaven National Laboratory (BNL) and Lawrence Berkeley National Laboratory (LBL). Some of these scientists are: Dr. Maria Chen (ANL), Dr. Wanli Yang (LBL), Dr. Chengjun Sun (ANL), Dr. Eli Stavitski (BNL), Dr. Steve Heald (ANL). We also received a letter of support from Dr. Matt Newville from University of Chicago -->
 
