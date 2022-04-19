@@ -2,3 +2,4 @@ matplotlib
 numpy
 tqdm
 tiled[client]
+git+https://git@github.com/AI-multimodal/aimmdb.git
