@@ -26,7 +26,8 @@ You can run all the data sets by following the intructions below. Keep in mind t
 
 - You can run the examples in your browser on Binder:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AI-multimodal/public-demos/HEAD?labpath=data-access.ipynb)
+  - Data access example: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AI-multimodal/public-demos/HEAD?labpath=data-access.ipynb)
+  - Data access with widgets: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jmaruland/public-demos/HEAD?labpath=aimm-server-data-access.ipynb)
 
 - Or you can run the locally:
 
