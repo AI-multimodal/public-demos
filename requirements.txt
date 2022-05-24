@@ -1,9 +1,6 @@
-IPython.display
-ipywidgets
 matplotlib
 numpy
 pandas
-tkinter
 tqdm
 tiled[all]
 git+https://git@github.com/AI-multimodal/aimmdb.git
